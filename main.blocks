@@ -1,0 +1,13 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_forever" id="{o3qA,E%8qHqyk3cH@#Z" x="0" y="0"><statement name="HANDLER"><block type="device_show_leds" id="QdZv7Js)nPO5mBU(Ww9["><field name="LEDS">`
+        . # . # . 
+        # # # # # 
+        # # # # # 
+        . # # # . 
+        . . # . .
+        `</field><next><block type="music_playable_play" id="U9SV[VQdfgaz*lJ?{;v("><field name="playbackMode">music.PlaybackMode.UntilDone</field><value name="toPlay"><shadow type="music_string_playable" id=";{F}CYsjH/~=0_w[x__4"><value name="melody"><shadow type="melody_editor" id="=^t/[LM%b!?iL=$=*HNS"><field name="melody">"- - - - - - - - "</field></shadow></value><value name="bpm"><shadow type="math_number_minmax" id="Q?2xK9^*qJ7EsZh-Z]2D"><mutation min="40" max="500" label="Bpm" precision="0"></mutation><field name="SLIDER">120</field></shadow></value></shadow></value><next><block type="device_show_leds" id="Dh)j4Lh.@oEd+{}B)gGz"><field name="LEDS">`
+        . # . # . 
+        # # # # # 
+        # # # # # 
+        . # # # . 
+        . . # . .
+        `</field></block></next></block></next></block></statement></block></xml>
